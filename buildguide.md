@@ -101,4 +101,5 @@
 /** your rom should be compiling , this is a simple guide for building a custom rom from source*/
  
 #You might recieve Build errors and even bugs For which you can contact me on telegram I would love to help you out
-# My telegram username :- t.me/theglitchh .
+# My telegram username :- theglitchh.
+[TheGlitchh](https://t.me/theglitchh)
