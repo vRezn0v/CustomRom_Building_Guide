@@ -1,6 +1,6 @@
 #Building Guide to Bringup Rom 
 
-# You need to have a linux distro with atleast 8 cores and atleast 12 gb ram , 
+# You need to have a linux distro with atleast 8 cores and atleast 12 gb ram and 130 gb of HDD.
 
 #Setting up linux distro 
 
@@ -95,6 +95,8 @@
 #And start the build 
  
 ``` . build/envsetup.sh``` 
+```lunch lineage_tulip-userdebug```
+``` brunch tulip``` 
 
 /** your rom should be compiling , this is a simple guide for building a custom rom from source*/
  
