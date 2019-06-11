@@ -1,7 +1,6 @@
 #Building Guide to Bringup Rom 
 
-/** You need to have a linux distro with atleast
-8 cores and atleast 12 gb ram , 
+# You need to have a linux distro with atleast 8 cores and atleast 12 gb ram , 
 
 #Setting up linux distro 
 
