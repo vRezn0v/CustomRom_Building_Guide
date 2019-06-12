@@ -4,13 +4,13 @@
 
 #Setting up linux distro 
 
-#For setting up linux distro we need to install some packages into our system for that , copy paste the preceeing code into your linux distro 
+*For setting up linux distro we need to install some packages into our system for that , copy paste the preceeing code into your linux distro*
 
 ```sudo apt-get update && sudo apt-get upgrade```
 
 /*This will install the latest files of your linux distro*/
 
-#Then to add those packages necessary for building , copy paste the preceding code.
+**Then to add those packages necessary for building , copy paste the preceding code**
 
 ```sudo apt-get install bc bison build-essential curl flex g++-multilib gcc-multilib git gnupg gperf imagemagick lib32ncurses5-dev lib32readline6-dev lib32z1-dev libesd0-dev liblz4-tool libncurses5-dev libsdl1.2-dev libwxgtk3.0-dev libxml2 libxml2-utils lzop pngcrush schedtool squashfs-tools xsltproc zip zlib1g-dev openjdk-8-jdk```
 
@@ -92,7 +92,7 @@
 #Now go Back to the Rom directory 
 ```cd ../../../``` or ``` cd ~ && cd lineage``` 
 
-#And start the build 
+**And start the build**
  
 ``` . build/envsetup.sh``` 
 ```lunch lineage_tulip-userdebug```
