@@ -16,7 +16,7 @@
 
 #Now we need to install repo.
 
-```sudo apt get install repo```
+```sudo apt-get install repo```
 
 #Now lets configure you github username and email globally.
 
